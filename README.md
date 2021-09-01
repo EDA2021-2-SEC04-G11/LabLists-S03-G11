@@ -27,5 +27,5 @@ Este directorio contiene todo el código de base que se entrega para el funciona
 
     |-- Utils: Funciones auxiliares para el funcionamiento de los TADs y estructuras de datos
 
-REQ 4 --->  Ronald Yesid Diaz Pardo 202111309  ////
-REQ 3 --->  Edgar luis vanegaz Roa 201921269   ////
+REQ 4 --->  Ronald Yesid Diaz Pardo 202111309, r.diazp@uniandes.edu.co  ////
+REQ 3 --->  Edgar luis vanegaz Roa 201921269, e.vanegasr@uniandes.edu.co   ////
